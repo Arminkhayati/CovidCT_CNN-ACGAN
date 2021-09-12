@@ -5,5 +5,6 @@ Then in part 'B' I trained an ACGAN to generate Covid and Non-Covid CT scan imag
 The classifier from part A, classifies generated images by ACGAN with 79% accuracy.
 Later on I mixed a little bit of generated images with the original train dataset and retrained my network from part A, and got 86% test accuracy on original dataset.
 
+![alt text](https://github.com/Arminkhayati/CovidCT_CNN-/blob/main/ezgif-2-f3146e4642d7.gif?raw=true)
 
 
